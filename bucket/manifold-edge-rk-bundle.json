@@ -6,14 +6,14 @@
     "license": "Unknown",
     "depends": "extras/vcredist2017" ,
     "url": [
-        "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-$version-x64.zip",
+        "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-9.0.172.4-x64.zip",
         "http://manifold.net/files/ui.zip",
         "http://www.manifoldgis.com/files/open_source_db_64.zip",
         "http://www.manifoldgis.com/files/ironpython-2.7.9-net45.zip"
 
     ],
     "extract_dir": [
-        "manifold-viewer-$version-x64",
+        "manifold-viewer-9.0.172.4-x64",
         ".",
         ".",
         "ironpython-2.7.9-net45"
@@ -33,11 +33,11 @@
     "shortcuts": [
         [
             "bin64\\manifold.exe",
-            "Manifold RK $version"
+            "Manifold RK 9.0.172.4"
         ],
         [
             "bin\\manifold.exe",
-            "Manifold RK $version (32bit mode)"
+            "Manifold RK 9.0.172.4 (32bit mode)"
         ]
     ]
     , "persist": [

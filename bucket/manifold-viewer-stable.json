@@ -4,17 +4,17 @@
     "homepage": "http://manifold.net/",
     "license": "Unknown",
     "depends": "extras/vcredist2017" ,
-    "url": "http://www.manifoldsoftwarelimited.info/updates/manifold-viewer-$version-x64.zip",
-    "extract_dir": "manifold-viewer-$version-x64",
+    "url": "http://www.manifoldsoftwarelimited.info/updates/manifold-viewer-9.0.172-x64.zip",
+    "extract_dir": "manifold-viewer-9.0.172-x64",
     "hash": "sha256:384f46b17f9ca498f961233ecea9b5bf27902931a893e17ab4928bfc9c32cfca",
     "shortcuts": [
         [
             "bin64\\manifold.exe",
-            "Manifold Viewer $version"
+            "Manifold Viewer 9.0.172"
         ],
         [
             "bin\\manifold.exe",
-            "Manifold Viewer $version (32bit mode)"
+            "Manifold Viewer 9.0.172 (32bit mode)"
         ]
     ]
 }
