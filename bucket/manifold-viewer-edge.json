@@ -8,7 +8,7 @@
     "url": "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-viewer-9.0.172.4-x64.zip",
     "extract_dir":  "manifold-viewer-9.0.172.4-x64",
     "bin": "bin64\\manifold.exe",
-    "hash": "sha256:8775364f6a74ab65b727a008cc89ebc0a0bcb01062cbab1cb39244f17ccb4321",
+    "hash": "sha256:716922fa89fa1980ddf0d90a9f88d2cc4247b9be2089a7efeac42c879b011130",
     "shortcuts": [
         [
             "bin64\\manifold.exe",
