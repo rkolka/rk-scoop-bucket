@@ -1,0 +1,50 @@
+{
+    "version": "9.0.172.4",
+    "description": "Cutting Edge build of Manifold Release 9 (Custom Bundle)",
+    "##": ["Let's comment!", "Let's comment more!"],
+    "homepage": "http://manifold.net/",
+    "license": "Unknown",
+    "depends": "extras/vcredist2017" ,
+    "url": [
+        "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-$version-x64.zip",
+        "http://manifold.net/files/ui.zip",
+        "http://www.manifoldgis.com/files/open_source_db_64.zip",
+        "http://www.manifoldgis.com/files/ironpython-2.7.9-net45.zip"
+
+    ],
+    "extract_dir": [
+        "manifold-viewer-$version-x64",
+        ".",
+        ".",
+        "ironpython-2.7.9-net45"
+    ],
+    "extract_to": [
+        ".",
+        "bin64\\",
+        "bin64\\",
+        "shared\\"
+    ],
+    "bin": "bin64\\manifold.exe",
+    "hash": [
+        "sha256:3e6107a3d16cc0570ac869be9ea8ce2220d8d805b080b9f39934215fa85923b5",
+        "98e83cfb7c1374870725370f4a99d933facb0933db4457c1ed56f9088dabe967"
+    ],
+
+    "shortcuts": [
+        [
+            "bin64\\manifold.exe",
+            "Manifold RK $version"
+        ],
+        [
+            "bin\\manifold.exe",
+            "Manifold RK $version (32bit mode)"
+        ]
+    ]
+    , "persist": [
+        "shared\\logfiles",
+        "shared\\add-ins",
+        "shared\\debug"
+    ]
+
+
+}
