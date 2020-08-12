@@ -4,4 +4,4 @@ Bucket for [Scoop](http://scoop.sh) containing manifests for [Manifold](http://m
 
 To make it easier to install apps from this bucket, run
 
-`scoop bucket add https://github.com/rkolka/rk-scoop-bucket.git`
+`scoop bucket add rk-scoop-bucket https://github.com/rkolka/rk-scoop-bucket.git`
