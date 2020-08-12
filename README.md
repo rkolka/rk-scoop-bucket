@@ -22,7 +22,7 @@ rk-scoop-bucket bucket:
 
 $ `scoop install manifold-edge`
 
-##
+## Descriptions
 #### manifold-edge (9.0.172.4)
 Cutting Edge build of Manifold Release 9
 #### manifold-stable (9.0.172)
