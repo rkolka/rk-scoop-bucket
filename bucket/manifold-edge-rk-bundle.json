@@ -16,7 +16,7 @@
         "manifold-9.0.172.4-x64",
         ".",
         ".",
-        "ironpython-2.7.9-net45"
+        "."
     ],
     "extract_to": [
         ".",
