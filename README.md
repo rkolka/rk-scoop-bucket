@@ -21,3 +21,19 @@ rk-scoop-bucket bucket:
 #### Install desired version
 
 $ `scoop install manifold-edge`
+
+##
+#### manifold-edge (9.0.172.4)
+Cutting Edge build of Manifold Release 9
+#### manifold-stable (9.0.172)
+Official build of Manifold Release 9
+#### manifold-viewer-edge (9.0.172.4)
+Cutting Edge build of Manifold Release 9 Viewer
+#### manifold-viewer-stable (9.0.172)
+Official build of Manifold Release 9 Viewer
+#### manifold-stable-bundle (9.0.172)
+Official build Manifold Release 9 + optional third-party software.
+The "fat" zip. Contains grids.dat, IronPython, open-source db dll-s.
+#### manifold-edge-rk-bundle (9.0.172.4)
+Cutting Edge build of Manifold Release 9 + custom experiments. May change unexpectedly.
+
