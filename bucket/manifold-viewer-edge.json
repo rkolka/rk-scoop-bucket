@@ -1,21 +1,21 @@
 {
-    "version": "9.0.172.4",
+    "version": "9.0.172.5",
     "description": "Cutting Edge build of Manifold Release 9 Viewer",
     "##": ["Let's comment!", "Let's comment more!"],
     "homepage": "http://manifold.net/",
     "license": "Unknown",
     "depends": "extras/vcredist2017" ,
-    "url": "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-viewer-9.0.172.4-x64.zip",
-    "extract_dir":  "manifold-viewer-9.0.172.4-x64",
-    "hash": "sha256:716922fa89fa1980ddf0d90a9f88d2cc4247b9be2089a7efeac42c879b011130",
+    "url": "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-viewer-9.0.172.5-x64.zip",
+    "extract_dir":  "manifold-viewer-9.0.172.5-x64",
+    "hash": "sha256:b9f9e04d54e92f81a9b36846d51188ef338c0fe9ab686c514f2503cd40ffa935",
     "shortcuts": [
         [
             "bin64\\manifold.exe",
-            "Manifold Viewer 9.0.172.4"
+            "Manifold Viewer 9.0.172.5"
         ],
         [
             "bin\\manifold.exe",
-            "Manifold Viewer 9.0.172.4 (32bit mode)"
+            "Manifold Viewer 9.0.172.5 (32bit mode)"
         ]
     ]
 
