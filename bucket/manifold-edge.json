@@ -4,19 +4,19 @@
     "homepage": "http://manifold.net/",
     "license": "Unknown",
     "depends": "extras/vcredist2017" ,
-    "url": "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-9.0.172.5-x64.zip",
-    "extract_dir": "manifold-9.0.172.5-x64",
+    "url": "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-9.0.172.6-x64.zip",
+    "extract_dir": "manifold-9.0.172.6-x64",
     "bin": "bin64\\manifold.exe",
-    "hash": "sha256:bade7c98522df4ba422c838e66e854ecb73305f51cef032697565a7adce97774",
+    "hash": "sha256:e0d5cbe5fbf4f104a96dbcde4271e67c0857c655c0bb678167e3dcc449cc7939",
 
     "shortcuts": [
         [
             "bin64\\manifold.exe",
-            "Manifold 9.0.172.5"
+            "Manifold 9.0.172.6"
         ],
         [
             "bin\\manifold.exe",
-            "Manifold 9.0.172.5 (32bit mode)"
+            "Manifold 9.0.172.6 (32bit mode)"
         ]
     ]
 }
