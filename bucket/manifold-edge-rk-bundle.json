@@ -6,14 +6,14 @@
     "license": "Unknown",
     "depends": "extras/vcredist2017" ,
     "url": [
-        "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-9.0.172.5-x64.zip",
+        "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-9.0.172.6-x64.zip",
         "http://manifold.net/files/ui.zip",
         "http://www.manifoldgis.com/files/open_source_db_64.zip",
         "http://www.manifoldgis.com/files/ironpython-2.7.9-net45.zip"
 
     ],
     "extract_dir": [
-        "manifold-9.0.172.5-x64"
+        "manifold-9.0.172.6-x64"
     ],
     "extract_to": [
         ".",
@@ -23,7 +23,7 @@
     ],
     "bin": "bin64\\manifold.exe",
     "hash": [
-        "sha256:bade7c98522df4ba422c838e66e854ecb73305f51cef032697565a7adce97774",
+        "sha256:e0d5cbe5fbf4f104a96dbcde4271e67c0857c655c0bb678167e3dcc449cc7939",
         "98e83cfb7c1374870725370f4a99d933facb0933db4457c1ed56f9088dabe967",
         "370d795e0b3d718c667b6ad493b830da8c089e16fdf6bc21fc243ca3d86d88a3",
         "b03d37c3e3e14bb6692634c6d805d2c5222441a38a9655d99c207778fd7c74da"
@@ -32,11 +32,11 @@
     "shortcuts": [
         [
             "bin64\\manifold.exe",
-            "Manifold RK 9.0.172.5"
+            "Manifold RK 9.0.172.6"
         ],
         [
             "bin\\manifold.exe",
-            "Manifold RK 9.0.172.5 (32bit mode)"
+            "Manifold RK 9.0.172.6 (32bit mode)"
         ]
     ]
     , "persist": [
