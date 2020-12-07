@@ -1,20 +1,20 @@
 {
-    "version": "9.0.172",
+    "version": "9.0.173",
     "description": "Official build Manifold Release 9",
     "homepage": "http://manifold.net/",
     "license": "Unknown",
     "depends": "extras/vcredist2017" ,
-    "url": "http://www.manifoldsoftwarelimited.info/updates/manifold-9.0.172-x64.zip",
-    "extract_dir": "manifold-9.0.172-x64",
-    "hash": "sha256:00c3218fa519e9874f9901c8b1b75a8765b6f63b43dc78d3376c69dfe0109539",
+    "url": "http://www.manifoldsoftwarelimited.info/updates/manifold-9.0.173-x64.zip",
+    "extract_dir": "manifold-9.0.173-x64",
+    "hash": "sha256:0f81d61ce541b1e3af340cfedad6e3025f0d6a2f87ee6867187fe5e462464335",
     "shortcuts": [
         [
             "bin64\\manifold.exe",
-            "Manifold 9.0.172"
+            "Manifold 9.0.173"
         ],
         [
             "bin\\manifold.exe",
-            "Manifold 9.0.172 (32-bit)"
+            "Manifold 9.0.173 (32-bit)"
         ]
     ]
 }
