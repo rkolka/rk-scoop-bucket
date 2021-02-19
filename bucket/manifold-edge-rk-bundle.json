@@ -6,7 +6,7 @@
     "license": "Unknown",
     "depends": "extras/vcredist2017" ,
     "url": [
-        "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-9.0.173.3-x64.zip",
+        "http://www.manifoldgis.com/updates/working/manifold-9.0.173.3-x64.zip",
         "http://manifold.net/files/ui.zip",
         "http://www.manifoldgis.com/files/open_source_db_64.zip",
         "http://www.manifoldgis.com/files/ironpython-2.7.9-net45.zip"

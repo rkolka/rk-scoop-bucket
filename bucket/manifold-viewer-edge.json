@@ -5,7 +5,7 @@
     "homepage": "http://manifold.net/",
     "license": "Unknown",
     "depends": "extras/vcredist2017" ,
-    "url": "http://www.manifoldsoftwarelimited.mobi/updates/working/manifold-viewer-9.0.173.3-x64.zip",
+    "url": "http://www.manifoldgis.com/updates/working/manifold-viewer-9.0.173.3-x64.zip",
     "extract_dir":  "manifold-viewer-9.0.173.3-x64",
     "hash": "sha256:98bbe72caba2ee0ae22f2f849883da9d1a81a340ca277b42ac66a0bd946717e9",
     "shortcuts": [
